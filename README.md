@@ -16,7 +16,7 @@ This section consists of the top rated movies across the world.
 Each movie has been stated along with it's priority number/position, it's title and the watch now button containing a link to the full movie on youtube.
 ## Extra Section
 This is just an additional section calling upon the users to pget in touch with WPNZ-movie centre and site.It contains a carousel of four slides displaying a few movie insights.
-## Individual Movi-Genre Pages
+## Individual Movie-Genre Pages
 This is alll about the individual genre pages where several movies under that genre have been pu up.
 Just a single tap to WATCH-NOW.
 ## Contact Page
